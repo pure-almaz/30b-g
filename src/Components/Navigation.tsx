@@ -24,7 +24,7 @@ export function Navigation()
 
   <Navbar  collapseOnSelect fixed = 'top' expand='sm' className='navbar-default '>
     <Container>
-        <Navbar.Brand >React Landing Page</Navbar.Brand>
+        <Navbar.Brand >30 BG</Navbar.Brand>
         <Navbar.Toggle className='navbar-toggle' aria-controls ='responsive-navbar-nav' />
 
         <Navbar.Collapse id = 'responsive-navbar-nav'   className="justify-content-end" >
