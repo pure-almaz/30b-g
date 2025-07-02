@@ -1,5 +1,5 @@
 {
-  "name": "react-vite-landing-page-template",
+  "name": "30b-g",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -25,5 +25,17 @@
     "@vitejs/plugin-react": "^1.0.7",
     "typescript": "^4.5.4",
     "vite": "^2.9.0"
-  }
+  },
+  "description": "this project is based on https://github.com/issaafalkattan/React-Landing-Page-Template",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pure-almaz/30b-g.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pure-almaz/30b-g/issues"
+  },
+  "homepage": "https://github.com/pure-almaz/30b-g#readme"
 }
