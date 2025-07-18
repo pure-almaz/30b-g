@@ -1,8 +1,7 @@
 
 import { Container, Row, Col } from 'react-bootstrap';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {faCartArrowDown,faCloudDownload,faLanguage,faPlane,faPieChart} from "@fortawesome/free-solid-svg-icons";
-import { faWordpress} from "@fortawesome/free-brands-svg-icons"
+import {faShoppingCart,faHandshake,faCheckCircle,faPlane,faFileInvoice,faTruck} from "@fortawesome/free-solid-svg-icons";
 import {default as JsonData} from "../data/data.json";
 
 
@@ -14,8 +13,7 @@ export function Services()
           <div className='section-title'>
             <h2>Our Services</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
+              We offer the following services to help you source and deliver high-quality gadgets efficiently and affordably:
             </p>
           </div>
           <Row>
@@ -23,12 +21,12 @@ export function Services()
               ? JsonData.Services.map((d, i) => (
                   <Col md={4} key={`${d.name}-${i}`} >
                     {' '}
-                    {d.icon=='faWordpress'?<FontAwesomeIcon icon={faWordpress} style={{ color: 'white',fontSize:'42px'}}/>:''}
-                    {d.icon=='faCartArrowDown'?<FontAwesomeIcon icon={ faCartArrowDown} />:''}
-                    {d.icon=='faCloudDownload'?<FontAwesomeIcon icon={faCloudDownload}/>:''}
-                    {d.icon=='faLanguage'?<FontAwesomeIcon icon={faLanguage}/>:''}
+                    {d.icon=='faTruck'?<FontAwesomeIcon icon={faTruck} />:''}
+                    {d.icon=='faShoppingCart'?<FontAwesomeIcon icon={ faShoppingCart} />:''}
+                    {d.icon=='faHandshake'?<FontAwesomeIcon icon={faHandshake}/>:''}
+                    {d.icon=='faCheckCircle'?<FontAwesomeIcon icon={faCheckCircle}/>:''}
                     {d.icon=='faPlane'?<FontAwesomeIcon icon={faPlane}/>:''}
-                    {d.icon=='faPieChart'?<FontAwesomeIcon icon={faPieChart}/>:''}
+                    {d.icon=='faFileInvoice'?<FontAwesomeIcon icon={faFileInvoice}/>:''}
               
                     <div className='service-desc'>
                       <h3>{d.name}</h3>

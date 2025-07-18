@@ -1,30 +1,27 @@
  {
   "Header": {
     "title": "30 BG GADGETS",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": "We help you handle Gadgets Purchase and Shipping for less - We do the hard work, so you don't have to!"
   },
     "About": {
-      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "paragraph": "If you are a business looking for the best way to manage your gadgets procurement and logistics, you must have realize how challenging it can be. The stress of researching quality gadgets, comparing prices, and ensuring timely delivery can be overwhelming. That's where we come in. We specialize in streamlining the entire process for you, from sourcing the best gadgets to managing the logistics of getting them to your doorstep. We help you handle the stressful part, while helping you to save on the shipping and procurement cost",
       "Why": [
-        "Lorem ipsum dolor",
-        "Tempor incididunt",
-        "Lorem ipsum dolor",
-        "Incididunt ut labore"
+        "Convenience and Efficiency",
+        "Cost Savings",
+        "Expertise in Gadget Sourcing",
+        "Reliable Logistics Management"
       ],
       "Why2": [
-        "Aliquip ex ea commodo",
-        "Lorem ipsum dolor",
-        "Exercitation ullamco",
-        "Lorem ipsum dolor"
+        "Quality Assurance",
+        "Timely Delivery",
+        "Transparency and Communication",
+        "Customer-Centric Approach"
       ]
     },
 	 "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Shop C6, Akinyemi Plaza, Ajah, Lagos",
+    "phone": "+234 703449 1649",
+    "email": "oluyoriisrael@gmail.com"
   },
 
   "Features": [
@@ -101,33 +98,33 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Before discovering this service, I was constantly dealing with delayed shipments and inconsistent product quality. Now, I can focus on selling while they handle everything from sourcing to delivery. It’s been a total game-changer for my business\"",
+      "name": "Amina Bello – Tech Store Owner, Lagos"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"They’ve simplified a process that used to take me weeks. The quality of gadgets, pricing, and reliable delivery have made them our go-to for all bulk orders. Highly recommended.\"",
+      "name": "James Oduro – IT Procurement Manager, Accra"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"What impressed me most was their transparency and attention to detail. I saved money on shipping and even got better prices than what I usually found myself. They really take the stress out of procurement\"",
+      "name": "Sandra Nweke – Founder, Swift Gadgets"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"I used to dread ordering gadgets for our corporate needs. Now I just send them the specs, and everything is handled. No hidden fees, no late deliveries. Just smooth, professional service.\"",
+      "name": "Tunde Olayemi – Operations Lead, TechHub NG"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"My clients often need gadgets in bulk, and I confidently refer them here. The consistency in service and quality has built a strong level of trust. I’ve never had a complaint.\"",
+      "name": "Chika Onuoha – Business Consultant, Port Harcourt"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Shipping gadgets from the UK used to be complicated and expensive. These guys helped me cut costs and still get genuine products. Their support team is also very responsive. 10/10!\"",
+      "name": "David Mensah – Mobile Retailer, Kumasi"
     }
   ],
   "Team": [
@@ -154,34 +151,34 @@
   ],
   "Services": [
     {
-      "icon": "faWordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "faShoppingCart",
+      "name": "Hassle-Free Tech Procurement",
+      "text": "We simplify the gadget procurement process for tech retailers and businesses buying in bulk. Whether you're restocking your store or equipping your team, we handle the heavy lifting—so you can focus on growing your business."
     },
     {
-      "icon": "faCartArrowDown",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "faHandshake",
+      "name": "Global Supplier Partnerships",
+      "text": "We connect you with trusted suppliers and factories in the UK, US, and China. Our direct partnerships give you access to high-quality new and refurbished gadgets at unbeatable bulk prices—saving you time and money."
     },
     {
-      "icon": "faCloudDownload",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "faLanguage",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "faCheckCircle",
+      "name": "Rigorous Quality Assurance",
+      "text": "Your satisfaction is our priority. Our on-ground representatives inspect each gadget before shipping to ensure it meets strict quality standards—so you receive exactly what you paid for."
     },
     {
       "icon": "faPlane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Cost-Effective Shipping Solutions",
+      "text": "We work with reliable freight forwarding partners to deliver your gadgets efficiently and affordably. Our bulk shipping agreements reduce logistics costs, and those savings go directly to you."
     },
     {
-      "icon": "faPieChart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "faFileInvoice",
+      "name": "Customs & Clearance Support",
+      "text": "No more worrying about paperwork or delays. We handle all clearing and forwarding logistics, including customs duties and import documentation—ensuring a smooth, stress-free delivery experience."
+    },
+    {
+      "icon": "faTruck",
+      "name": "Doorstep Delivery",
+      "text": "Once your gadgets arrive in your country, we take care of the last mile. From port to your doorstep, we manage the logistics—giving you total convenience without lifting a finger."
     }
   ]
 }

@@ -17,7 +17,7 @@ export function Home()
                   </h1>
                   <p>{JsonData ? JsonData.Header.paragraph : 'Loading'}</p>
                   <a
-                    href='#features'
+                    href='#contact'
                     className='btn btn-custom btn-lg page-scroll'
                   >
                     Learn More

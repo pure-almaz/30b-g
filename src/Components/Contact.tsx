@@ -93,6 +93,7 @@ export function Contact()
                      />
                 
                     <p className='help-block text-danger'></p>
+                    <p style={{ fontStyle: "italic", color:"white", fontWeight:"bold"}}>Note: To filter out spam, we charge a $5 consultation fee. This fee is none refundable and will be regarded as a down-payment towards doing business with us!</p>
                     </Form.Group>
                   <div id='success'></div>
                   <Button as="input" type="submit" 
@@ -140,30 +141,6 @@ export function Contact()
               </div>
             </Col>
             </Row>
-            <div className='col-md-12'>
-              <div className='row'>
-                <div className='social'>
-                  <ul>
-                    <li>
-                      <a href={JsonData  ? JsonData.Contact.facebook : '/'}>
-                      <FontAwesomeIcon icon={faFacebook} style={{ color: 'white',fontSize:'42px' }} />
-                      </a>
-                    </li>
-                    <li>
-                      <a href={JsonData  ?JsonData.Contact.twitter : '/'}>
-                     
-                        <FontAwesomeIcon icon={faTwitter} style={{ color: 'white',fontSize:'42px' }} />
-                      </a>
-                    </li>
-                    <li>
-                      <a href={JsonData  ? JsonData.Contact.youtube : '/'}>
-                      <FontAwesomeIcon icon={faYoutube} style={{ color: 'white',fontSize:'42px'}} />
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
             </Container>
        
        
@@ -171,10 +148,7 @@ export function Contact()
       <div id='footer'>
           <div className='container text-center'>
             <p>
-              &copy; 2022 Sebastião Lucio React Land Page Template. Design by{' '}
-              <a href='https://github.com/rio3dstudios' rel='nofollow'>
-                Rio 3D Studios
-              </a>
+              &copy; 2025 30 BG Gadgets Limited
             </p>
           </div>
         </div>

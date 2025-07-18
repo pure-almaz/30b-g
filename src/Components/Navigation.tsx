@@ -32,9 +32,9 @@ export function Navigation()
          <Nav.Item>
            <Nav.Link href="#home" className="nav-links" >Home</Nav.Link>
          </Nav.Item>
-         <Nav.Item>
+         {/* <Nav.Item>
            <Nav.Link href="#features"  className="nav-links" >Features</Nav.Link>
-         </Nav.Item>
+         </Nav.Item> */}
          <Nav.Item>
            <Nav.Link href="#services" className="nav-links" >Services</Nav.Link>
          </Nav.Item>
@@ -47,9 +47,9 @@ export function Navigation()
          <Nav.Item>
            <Nav.Link href='#testimonials'  className="nav-links" >Testimonials</Nav.Link>
          </Nav.Item>
-         <Nav.Item>
+         {/* <Nav.Item>
            <Nav.Link href='#team'  className="nav-links" >Team</Nav.Link>
-         </Nav.Item>
+         </Nav.Item> */}
          <Nav.Item>
            <Nav.Link href="#contact"  className="nav-links" >Contact</Nav.Link>
          </Nav.Item>

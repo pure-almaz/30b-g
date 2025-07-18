@@ -33,12 +33,12 @@ function App() {
     <div>
       <Navigation/>
       <Home />
-      <Features />
+      {/* <Features /> */}
       <Services />
       <About />
       <Gallery />
       <Testimonials/>
-      <Team />
+      {/* <Team /> */}
       <Contact />
       
 
