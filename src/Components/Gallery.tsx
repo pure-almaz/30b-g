@@ -14,8 +14,7 @@ export function Gallery()
           <div className='section-title'>
             <h2>Gallery</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-              dapibus leonec.
+              From PC to gaming consoles, we have a wide range of gadgets to meet your needs.
             </p>
           </div>
         

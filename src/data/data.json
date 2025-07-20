@@ -61,68 +61,38 @@
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
+      "img": "img/testimonials/amina.jpg",
       "text": "\"Before discovering this service, I was constantly dealing with delayed shipments and inconsistent product quality. Now, I can focus on selling while they handle everything from sourcing to delivery. It’s been a total game-changer for my business\"",
       "name": "Amina Bello – Tech Store Owner, Lagos"
     },
     {
-      "img": "img/testimonials/02.jpg",
+      "img": "img/testimonials/james.jpg",
       "text": "\"They’ve simplified a process that used to take me weeks. The quality of gadgets, pricing, and reliable delivery have made them our go-to for all bulk orders. Highly recommended.\"",
       "name": "James Oduro – IT Procurement Manager, Accra"
     },
     {
-      "img": "img/testimonials/03.jpg",
+      "img": "img/testimonials/sandra.jpg",
       "text": "\"What impressed me most was their transparency and attention to detail. I saved money on shipping and even got better prices than what I usually found myself. They really take the stress out of procurement\"",
       "name": "Sandra Nweke – Founder, Swift Gadgets"
     },
     {
-      "img": "img/testimonials/04.jpg",
+      "img": "img/testimonials/tunde.jpg",
       "text": "\"I used to dread ordering gadgets for our corporate needs. Now I just send them the specs, and everything is handled. No hidden fees, no late deliveries. Just smooth, professional service.\"",
       "name": "Tunde Olayemi – Operations Lead, TechHub NG"
     },
     {
-      "img": "img/testimonials/05.jpg",
+      "img": "img/testimonials/chika.jpg",
       "text": "\"My clients often need gadgets in bulk, and I confidently refer them here. The consistency in service and quality has built a strong level of trust. I’ve never had a complaint.\"",
       "name": "Chika Onuoha – Business Consultant, Port Harcourt"
     },
     {
-      "img": "img/testimonials/06.jpg",
+      "img": "img/testimonials/david.jpg",
       "text": "\"Shipping gadgets from the UK used to be complicated and expensive. These guys helped me cut costs and still get genuine products. Their support team is also very responsive. 10/10!\"",
       "name": "David Mensah – Mobile Retailer, Kumasi"
     }
