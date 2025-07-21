@@ -41,9 +41,9 @@ export function Navigation()
          <Nav.Item>
            <Nav.Link href='#about'  className="nav-links" >About</Nav.Link>
          </Nav.Item>
-         <Nav.Item>
+         {/* <Nav.Item>
            <Nav.Link href='#portfolio'  className="nav-links" >Gallery</Nav.Link>
-         </Nav.Item>
+         </Nav.Item> */}
          <Nav.Item>
            <Nav.Link href='#testimonials'  className="nav-links" >Testimonials</Nav.Link>
          </Nav.Item>

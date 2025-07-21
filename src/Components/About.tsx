@@ -18,7 +18,7 @@ export function About()
           <Row>
             <Col xs={12} md={6}>
               {" "}
-              <img src="img/about_img.png" className="img-responsive" alt="" />{" "}
+              <img src="img/about-2.jpg" className="img-responsive" alt="" />{" "}
             </Col>
             <Col xs={12}  md={6} >
               <div className="about-text">

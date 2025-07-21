@@ -36,7 +36,7 @@ function App() {
       {/* <Features /> */}
       <Services />
       <About />
-      <Gallery />
+      {/* <Gallery /> */}
       <Testimonials/>
       {/* <Team /> */}
       <Contact />
